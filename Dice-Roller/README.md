@@ -20,7 +20,7 @@ The project consists of the following files:
 
 1. Clone this repository to your local system:
    ```bash
-   git clone https://github.com/your-username/Dice-Roller.git
+   git clone https://github.com/pratyakshad13/Javascript-mini-projects/Dice-Roller.git
 
 2.Open main.html in your favorite browser.
 
