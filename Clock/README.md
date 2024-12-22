@@ -26,7 +26,7 @@ A beautiful digital clock displaying the current time in **HH:MM:SS AM/PM** form
    cd Clock
    ```
 
-3. Open the `index.html` file in your preferred web browser to view the clock.
+3. Open the `main.html` file in your preferred web browser to view the clock.
 
 ---
 
